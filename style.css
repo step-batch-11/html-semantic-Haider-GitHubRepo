@@ -24,6 +24,7 @@ body {
 
 img {
   width: 100%;
+  object-fit: contain;
 }
 
 header {
@@ -55,7 +56,7 @@ hgroup h1 {
   font-size: 3.5rem;
 }
 
-hgroup h2 {
+hgroup p {
   text-align: center;
   font-weight: 400;
   font-size: 1.5rem;
@@ -106,7 +107,7 @@ time {
   font-weight: 300;
 }
 
-section h4 {
+section p {
   font-weight: 600;
 }
 
